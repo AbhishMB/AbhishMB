@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a Computer Science undergrad at The National Institute of Engineering, Mysore.
+A passionate programmer who loves to build projects using C++, and Python.
+Currently traversing through Data Structures and Algorithms along with building projects using Django.
+Strongly believes in Learn-Teach-Grow, Founder of Peer-2-Peer community of like minds. Here the like minds take up projects that concern the problems faced in day today life and attempt to solve them.
+You can reach out to me on-
+
