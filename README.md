@@ -26,11 +26,11 @@ A 💻 passionate programmer who loves to build projects using C++ and Python.
   ![GitHub](https://img.shields.io/badge/HTML/CSS-20%25-orange?style=flat-square)
   ![GitHub](https://img.shields.io/badge/Other-10%25-lightgrey?style=flat-square)
 
-📈 GitHub Stats:
+## 📊 GitHub Stats
+<!-- Animated Progress Chart or Graph -->
+<img src="https://example.com/path/to/progress-chart.gif" alt="Progress Chart" width="500"/>
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbhishMB &show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical)](https://github.com/AbhishMB)
-
-
 
 
 
