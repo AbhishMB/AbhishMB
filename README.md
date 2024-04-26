@@ -47,7 +47,7 @@ https://github-readme-streak-stats.herokuapp.com/?user=your-github-username
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AbhishMB&theme=dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/AbhishMB/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/AbhishMB)](https://github.com/AbhishMB/github-readme-stats)
 
 <!--📊 GitHub Activity:
 - Active since:![GitHub](https://img.shields.io/badge/-GitHub-gray?style=flat-square&logo=github&logoColor=white) [![GitHub](https://img.shields.io/github/last-commit/AbhishMB/AbhishMB?style=flat-square)](https://github.com/AbhishMB)
