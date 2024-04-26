@@ -21,7 +21,7 @@ A 💻 passionate programmer who loves to build projects using C++ and Python.
 
 📧 Connect me:
 - LinkedIn: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=www.linkedin.com/in/abhishek-mb5113)](https://www.linkedin.com/in/www.linkedin.com/in/abhishek-mb5113/)
-- Email: [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white&link=bilagiabhishek56@gmail.com)](mail to:bilagiabhishek56@gmail.com)
+- Email: ![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white&link=bilagiabhishek56@gmail.com)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
