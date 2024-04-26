@@ -2,6 +2,10 @@
 
 <!-- Animated Handshake Gif -->
 <img src="https://example.com/path/to/animated-handshake.gif" alt="Handshake" width="50"/>
+<div id="header" align="center">
+  <img src="  [https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenVyMzhxbGdjenZkOWlpdnVnY3c0cnFqZHRyaWJ0c2Fsb3Brem40ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif)" width="100"/>
+</div>
+
 
 Hello there! 👋 I'm ABHISHEK MANOHAR BILAGI, a passionate 🚀 Computer Science undergrad at The National Institute of Engineering, Mysore.
 
