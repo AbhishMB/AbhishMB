@@ -20,8 +20,9 @@ A 💻 passionate programmer who loves to build projects using C++ and Python.
 🚀 Strongly believes in Learn-Teach-Grow. Founder of Peer-2-Peer, a community of like minds. Here, the like minds take up projects that concern the problems faced in day-to-day life and attempt to solve them.
 
 📧 Connect me:
-- LinkedIn: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=www.linkedin.com/in/abhishek-mb5113)](https://www.linkedin.com/in/www.linkedin.com/in/abhishek-mb5113/)
-- Email: ![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white&link=bilagiabhishek56@gmail.com)
+- LinkedIn: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=www.linkedin.com/in/abhishek-mb5113)](https://www.linkedin.com/in/abhishek-mb5113)
+- Email: ![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white&link=bilagiabhishek56@gmail.com)[Email id: bilagiabhishek56@gmail.com]
+  
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
