@@ -1,20 +1,12 @@
-<!-- Animated Handshake Gif -->
-<img src="https://example.com/path/to/animated-handshake.gif" alt="Handshake" width="50"/>
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<h1>
-   Hey, I'm Abhishek
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+# Hey, I'm Abhishek
 
 R&D engineer (AI/ML) in Bengaluru. I work on making forecasting and anomaly detection models trustworthy on messy real-world signals, and I build agents on the side.
 
 ## What I'm working on
 
-- **Day job** time-series foundation models (Chronos-2, Toto) on network telemetry, streaming anomaly detection, an agent that decides whether a series is fit for zero-shot forecasting before any model sees it, and a read-only, evidence-citing agent for root-cause analysis from logs.
+- **Day job:** time-series foundation models (Chronos-2, Toto) on network telemetry, streaming anomaly detection, an agent that decides whether a series is fit for zero-shot forecasting before any model sees it, and a read-only, evidence-citing agent for root-cause analysis from logs.
 - **The Backprop:** weekly newsletter where I take one ML breakthrough and trace how it works, where it came from, and what it changes. Free. [thebackprop.substack.com](https://thebackprop.substack.com)
-- **FreeSearch:** open-source search aggregation project.
+- **FreeSearch:** search aggregation for AI agents, with eight commercial search APIs behind one interface. It is also where I'm training a router from bandit-feedback logs. Private for now.
 
 ## What I'm reading and studying
 
@@ -29,10 +21,10 @@ Quantization, KV cache compression (currently TurboQuant), transformer internals
 
 ## Past work
 
-- Published: [A modular approach to polyphonic music transcription using source separation and harmonic-gated pitch tracking](https://doi.org/10.62110/sciencein.jist.2026.v14.1582) (J. Integr. Sci. Technol., 2026). Code: [Sound-Script](https://github.com/AbhishMB/Sound-Script)
-- S.W.I.F.T: autonomous warehouse inventory drone, 1st place in the drone challenge at IIT Bombay Techfest
-- Find-X: attribute extraction from product images, 60th in India at Amazon ML Challenge 2024
-- Autonomous wildlife-tracking drone (YOLO + PID)
+- **Published:** [A modular approach to polyphonic music transcription using source separation and harmonic-gated pitch tracking](https://doi.org/10.62110/sciencein.jist.2026.v14.1582) (J. Integr. Sci. Technol., 2026). Code: [Sound-Script](https://github.com/AbhishMB/Sound-Script)
+- **S.W.I.F.T:** autonomous warehouse inventory drone, team project, 1st place in the drone challenge at IIT Bombay Techfest. [Repo](https://github.com/vvekro/warehouse-drone)
+- **Find-X:** attribute extraction from product images, 60th in India at Amazon ML Challenge 2024. [Repo](https://github.com/AbhishMB/Find-X-Model)
+- **WildTrack:** autonomous wildlife-tracking drone (YOLO + PID), a rewrite of my B.E. minor project. [Repo](https://github.com/AbhishMB/WildTrack)
 
 ## Stack
 
@@ -52,26 +44,3 @@ Quantization, KV cache compression (currently TurboQuant), transformer internals
 [![Substack](https://img.shields.io/badge/-The%20Backprop-FF6719?style=flat-square&logo=substack&logoColor=white)](https://thebackprop.substack.com)
 
 Happy to talk about forecasting, agents, orchestration, or anything research-y.
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishMB&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<!--📊 GitHub Activity:
-- Active since:![GitHub](https://img.shields.io/badge/-GitHub-gray?style=flat-square&logo=github&logoColor=white) [![GitHub](https://img.shields.io/github/last-commit/AbhishMB/AbhishMB?style=flat-square)](https://github.com/AbhishMB)
-
-- Total Repositories:![GitHub](https://img.shields.io/badge/Total%20Repositories-20-brightgreen?style=flat-square)
-  
-- Languages Used:
-  ![GitHub](https://img.shields.io/badge/JavaScript-40%25-yellow?style=flat-square)
-  ![GitHub](https://img.shields.io/badge/Python-30%25-blue?style=flat-square)
-  ![GitHub](https://img.shields.io/badge/HTML/CSS-20%25-orange?style=flat-square)
-  ![GitHub](https://img.shields.io/badge/Other-10%25-lightgrey?style=flat-square)
-
-## 📊 GitHub Stats -->
-<!-- Animated Progress Chart or Graph 
-<img src="https://example.com/path/to/progress-chart.gif" alt="Progress Chart" width="500"/>
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbhishMB &show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical)](https://github.com/AbhishMB) -->
-
-
-
